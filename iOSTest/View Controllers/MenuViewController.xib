@@ -65,7 +65,6 @@
                 <constraint firstItem="OUu-Er-2PT" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="Uzq-ga-U0A"/>
                 <constraint firstItem="1JK-s9-WPS" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="227" id="gGK-AE-bGm"/>
                 <constraint firstAttribute="trailing" secondItem="1JK-s9-WPS" secondAttribute="trailing" constant="30" id="jdR-Ui-0Kf"/>
-                <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="1JK-s9-WPS" secondAttribute="bottom" constant="227" id="tLV-8F-DT8"/>
             </constraints>
             <point key="canvasLocation" x="552.17391304347825" y="313.39285714285711"/>
         </view>
